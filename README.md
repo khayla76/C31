@@ -1,1 +1,2 @@
-# C31
+# komara-setio
+sebagai pemula yg terus belajar
